@@ -15,7 +15,7 @@ Jan 1806 - Present
  Jan 1781 - Jan 1806 
       - Wrote stuff
       
-  #### SKILLS
+  ### SKILLS
   
   **Technical**
   
@@ -23,7 +23,7 @@ Jan 1806 - Present
  `Writing`
  `Painting in coils`
 
-#### EDUCATION
+### EDUCATION
   
   **Drafting,Masters**, Faber- Castell Architecture University
   
@@ -31,10 +31,10 @@ Jan 1806 - Present
   
  ### CERTFICATES 
  
-  **INTERN, Kohinoor Hardtmuth
+  **INTERN**, Kohinoor Hardtmuth
   
   Issued on Jan 01,1806
   
   ### AWARDS 
     
-  **Top of class, 
+  **Top of class**, 
