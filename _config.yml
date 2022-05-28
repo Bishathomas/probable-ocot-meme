@@ -5,3 +5,5 @@ github_username: CaranDArche
 author: caran@gmail.com
 
 markdown: kramdown
+
+theme: jekyll-theme-minimal
