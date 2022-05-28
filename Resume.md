@@ -15,7 +15,7 @@ Jan 1806 - Present
  Jan 1781 - Jan 1806 
       - Wrote stuff
       
-  ### SKILLS
+ ### SKILLS
   
   **Technical**
   
@@ -29,12 +29,12 @@ Jan 1806 - Present
   
   Jan 1750 -Jan 1765
   
- ### CERTFICATES 
+### CERTIFICATES 
  
-  **INTERN**, Kohinoor Hardtmuth
+**INTERN**, Kohinoor Hardtmuth
   
   Issued on Jan 01,1806
   
-  ### AWARDS 
+### EDUCATION
     
-  **Top of class**, 
+  **Top of class**
