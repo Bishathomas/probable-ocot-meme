@@ -4,7 +4,7 @@ has_children: true
 ---
 
 
-{% include snippet 1.md %}
+{% include snippet.md %}
 
 # Chat
 
