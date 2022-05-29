@@ -28,3 +28,5 @@ This function allows you to view and send messages in a meeting. You can start a
 |Mark as unread|Read an important message later |
 
 {{site.description}}
+
+{% include snippet1 %}
