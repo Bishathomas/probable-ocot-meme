@@ -9,6 +9,6 @@ markdown: kramdown
 theme: minima 
 
 header_pages: 
--index.md
-- Chat 
-- About 
+     - index.md
+     - Chat 
+     - About 
