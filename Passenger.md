@@ -1,7 +1,7 @@
 # Passenger List 
 
-{% for item in data.titanic %} 
+{% for item in data.titanic.csv %} 
 
-{ {item:name} was {Item:age} }
+{ {item:Name} was {Item:Age} }
 
 {% endfor %}
