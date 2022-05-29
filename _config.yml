@@ -6,6 +6,6 @@ author: Bishathomas@gmail.com
 
 markdown: kramdown
 
-theme:minima
+theme: minima
 
 remote_theme: just-the-docs/just-the-docs
