@@ -3,9 +3,6 @@ nav_order: 2
 has_children: true
 ---
 
-
-{% include snippet.md %}
-
 # Chat
 
 ## Introduction
@@ -32,4 +29,4 @@ This function allows you to view and send messages in a meeting. You can start a
 
 {{site.description}}
 
-
+{% include snippet.md %}
