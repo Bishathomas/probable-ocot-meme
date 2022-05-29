@@ -2,6 +2,6 @@
 
 {% for item in data.titanic.csv %} 
 
-{ {item:Name} was {Item:Age} }
+{ {item: Name} was {Item: Age} }
 
 {% endfor %}
