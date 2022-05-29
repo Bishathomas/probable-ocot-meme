@@ -2,6 +2,6 @@
 
 {% for item in data.titanic %} 
 
-{{item:name} was {Item:age}}
+{ {item:name} was {Item:age} }
 
 {% endfor %}
