@@ -29,4 +29,4 @@ This function allows you to view and send messages in a meeting. You can start a
 
 {{site.description}}
 
-{% include snippet1 %}
+{% include snippet 1 %}
