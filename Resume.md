@@ -2,7 +2,7 @@
 parent: Chat
 ---
 
-ABOUT 
+# ABOUT 
 
 My professional areas of interest include drawign,skecthing,and designing. I specialise in drawing space-rovers and drone-probes.
 
