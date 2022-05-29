@@ -1,5 +1,5 @@
 ---
-parent : chat
+parent : Chat
 ---
 
 ABOUT 
