@@ -1,7 +1,7 @@
 # Passenger List 
 
-{% for item in data.titanic.csv %} 
+{% for item in site.data.titanic %} 
 
-{ {item: Name} was {Item: Age} }
+{{item.Name} was {Item.Age}} years old.
 
 {% endfor %}
