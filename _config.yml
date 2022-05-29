@@ -10,5 +10,5 @@ theme: minima
 
 header_pages: 
      - index.md
-     - Chat 
-     - About 
+     - Chat.md
+     - About.md
