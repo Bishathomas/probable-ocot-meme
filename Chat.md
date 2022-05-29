@@ -1,4 +1,5 @@
 ---
+nav_order: 2
 has_children: true
 ---
 
@@ -26,4 +27,4 @@ This function allows you to view and send messages in a meeting. You can start a
 |Delete|Remove the chat|
 |Mark as unread|Read an important message later |
 
-
+{{site.description}}
