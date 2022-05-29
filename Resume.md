@@ -1,4 +1,8 @@
-## ABOUT 
+---
+nav_order: 3
+---
+
+ABOUT 
 My professional areas of interest include drawign,skecthing,and designing. I specialise in drawing space-rovers and drone-probes.
 
 ### WORK EXPERIENCE 
@@ -28,3 +32,4 @@ Issued on Jan 01,1806
   
 ### AWARDS 
 **Top of class**
+
